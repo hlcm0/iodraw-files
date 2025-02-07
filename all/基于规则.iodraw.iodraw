@@ -215,7 +215,7 @@
         <mxCell id="SHLrvD6rgZESvWDvHOlH-22" value="全连接层&lt;div&gt;意图值&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#EBEBEB;" vertex="1" parent="1">
           <mxGeometry x="640" y="440" width="60" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="SHLrvD6rgZESvWDvHOlH-27" value="全连接层&lt;div&gt;槽位值&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#EBEBEB;" vertex="1" parent="1">
+        <mxCell id="SHLrvD6rgZESvWDvHOlH-27" value="全连接层&lt;div&gt;输出槽位&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#EBEBEB;" vertex="1" parent="1">
           <mxGeometry x="640" y="300" width="60" height="130" as="geometry" />
         </mxCell>
         <mxCell id="SHLrvD6rgZESvWDvHOlH-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
