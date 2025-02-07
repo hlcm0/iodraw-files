@@ -61,10 +61,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jk0E6yzGHeUQPtjrIvlJ-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;strokeWidth=4;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+        <mxCell id="jk0E6yzGHeUQPtjrIvlJ-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;strokeWidth=4;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="280" as="sourcePoint" />
-            <mxPoint x="540" y="280" as="targetPoint" />
+            <mxPoint x="530" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jk0E6yzGHeUQPtjrIvlJ-25" value="API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jk0E6yzGHeUQPtjrIvlJ-22" vertex="1" connectable="0">
