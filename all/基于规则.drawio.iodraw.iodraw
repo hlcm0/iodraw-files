@@ -22,7 +22,7 @@
         <mxCell id="ZCTNthyzh_LQ-zZ5dEcY-9" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="290" y="400" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZCTNthyzh_LQ-zZ5dEcY-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZCTNthyzh_LQ-zZ5dEcY-11" value="词元" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="390" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
