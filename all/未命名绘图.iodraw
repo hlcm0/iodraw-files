@@ -205,6 +205,9 @@
         <mxCell id="SHLrvD6rgZESvWDvHOlH-19" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;长期记忆&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="510" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SHLrvD6rgZESvWDvHOlH-20" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;短期记忆&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
