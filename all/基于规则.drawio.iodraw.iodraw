@@ -21,7 +21,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jk0E6yzGHeUQPtjrIvlJ-6" value="关键词表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeWidth=1;rounded=0;swimlaneFillColor=default;" parent="1" vertex="1">
+        <mxCell id="jk0E6yzGHeUQPtjrIvlJ-6" value="关键词表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeWidth=1;rounded=0;swimlaneFillColor=default;fillColor=#E3E3E3;" parent="1" vertex="1">
           <mxGeometry x="200" y="240" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jk0E6yzGHeUQPtjrIvlJ-7" value="价格/股价" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="jk0E6yzGHeUQPtjrIvlJ-6" vertex="1">
@@ -88,7 +88,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jk0E6yzGHeUQPtjrIvlJ-29" value="API调用" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="jk0E6yzGHeUQPtjrIvlJ-29" value="API调用" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="540" y="240" width="50" height="180" as="geometry" />
         </mxCell>
         <mxCell id="jk0E6yzGHeUQPtjrIvlJ-30" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;" parent="1" edge="1">
