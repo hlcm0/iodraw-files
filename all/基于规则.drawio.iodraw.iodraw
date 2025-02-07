@@ -25,6 +25,9 @@
         <mxCell id="ZCTNthyzh_LQ-zZ5dEcY-11" value="词元" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="330" y="365" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZCTNthyzh_LQ-zZ5dEcY-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZCTNthyzh_LQ-zZ5dEcY-12" target="ZCTNthyzh_LQ-zZ5dEcY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZCTNthyzh_LQ-zZ5dEcY-12" value="分词&lt;div&gt;引擎&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="300" width="50" height="160" as="geometry" />
         </mxCell>
@@ -34,7 +37,7 @@
             <mxPoint x="440" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZCTNthyzh_LQ-zZ5dEcY-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="1" source="ZCTNthyzh_LQ-zZ5dEcY-12">
+        <mxCell id="ZCTNthyzh_LQ-zZ5dEcY-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZCTNthyzh_LQ-zZ5dEcY-12" target="ZCTNthyzh_LQ-zZ5dEcY-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="430" as="sourcePoint" />
             <mxPoint x="290" y="380" as="targetPoint" />
