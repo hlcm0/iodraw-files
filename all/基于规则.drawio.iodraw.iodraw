@@ -28,7 +28,7 @@
         <mxCell id="ZCTNthyzh_LQ-zZ5dEcY-12" value="分词&lt;div&gt;引擎&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EBEBEB;" vertex="1" parent="1">
           <mxGeometry x="210" y="300" width="50" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="ZCTNthyzh_LQ-zZ5dEcY-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" target="ZCTNthyzh_LQ-zZ5dEcY-12">
+        <mxCell id="ZCTNthyzh_LQ-zZ5dEcY-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="ZCTNthyzh_LQ-zZ5dEcY-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="380" as="sourcePoint" />
             <mxPoint x="440" y="380" as="targetPoint" />
@@ -67,7 +67,7 @@
         <mxCell id="ZCTNthyzh_LQ-zZ5dEcY-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZCTNthyzh_LQ-zZ5dEcY-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="330" as="sourcePoint" />
-            <mxPoint x="410" y="330" as="targetPoint" />
+            <mxPoint x="430" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
