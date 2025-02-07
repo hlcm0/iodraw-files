@@ -94,8 +94,8 @@
             <mxPoint x="420" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZCTNthyzh_LQ-zZ5dEcY-28" value="分词&lt;div&gt;引擎&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EBEBEB;" vertex="1" parent="1">
-          <mxGeometry x="220" y="310" width="50" height="160" as="geometry" />
+        <mxCell id="ZCTNthyzh_LQ-zZ5dEcY-28" value="词嵌入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EBEBEB;" vertex="1" parent="1">
+          <mxGeometry x="430" y="300" width="50" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
