@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZCTNthyzh_LQ-zZ5dEcY-1" value="自然语言指令" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="360" width="110" height="40" as="geometry" />
+          <mxGeometry x="70" y="360" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZCTNthyzh_LQ-zZ5dEcY-2" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="320" width="70" height="40" as="geometry" />
@@ -212,7 +212,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SHLrvD6rgZESvWDvHOlH-22" value="全连接层&lt;div&gt;意图值&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#EBEBEB;" vertex="1" parent="1">
+        <mxCell id="SHLrvD6rgZESvWDvHOlH-22" value="全连接层&lt;div&gt;输出意图&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#EBEBEB;" vertex="1" parent="1">
           <mxGeometry x="640" y="440" width="60" height="130" as="geometry" />
         </mxCell>
         <mxCell id="SHLrvD6rgZESvWDvHOlH-27" value="全连接层&lt;div&gt;输出槽位&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#EBEBEB;" vertex="1" parent="1">
